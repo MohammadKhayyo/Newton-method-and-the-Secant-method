@@ -1,7 +1,5 @@
 # Murad Abu-Gosh
-# 208966184
 # Mohammad khayyo
-# 211558895
 import numpy as np
 import matplotlib.pyplot as plt
 import sympy as sym
